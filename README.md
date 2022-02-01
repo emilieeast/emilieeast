@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding, educating myself, development
 - 🌱 I’m currently learning Vue, React, Express, MongoDB
 - 📫 How to reach me - emilieinspo@gmail.com
+- :office: http://www.emilieeast.se
 
 <!---
 emilieeast/emilieeast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
